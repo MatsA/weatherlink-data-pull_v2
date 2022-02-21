@@ -20,8 +20,7 @@ $apiRequestTimestamp = "1558729481";
 */ 
 
 // Select "stations" or "current"
-// $data = "stations"; 
-$data = "current";
+$data = "stations"; // $data = "current";
 
 // Replace with your own values !!!! 
 $apiKey = "xxx";
