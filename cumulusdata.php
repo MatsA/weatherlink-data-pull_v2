@@ -29,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */ 
 
-// File layout https://cumuluswiki.wxforum.net/a/Realtime.txt 
+// File layout https://www.cumuluswiki.org/a/Realtime.txt
 // 2017-01-29 To get better trend values for temp and pressure the csv files in chartswudata is used as history info. 
 //            Now trend calculation is using the measures 2 hours ago ->sub(new DateInterval('PT2H')) 
 // 2017-03-29 Changed filesuffix for files in folder "chartswudata" to .txt
